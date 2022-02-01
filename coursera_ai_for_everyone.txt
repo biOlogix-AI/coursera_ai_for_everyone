@@ -1,0 +1,268 @@
+Course:
+	* AI For Everyone
+
+
+Instructor:
+	* Andrew Ng (Founder, DeepLearning.AI & Co-founder, Coursera)
+
+
+Week:
+	* Week 1 - What is AI?
+	* Week 2 - Building AI Projects
+	* Week 3 - Building AI In Your Company
+	* Week 4 - AI and Society
+
+
+About this Course:
+	* AI is not only for engineers. If you want your organization to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take. 
+	* In this course, you will learn:
+		* The meaning behind common AI terminology, including neural networks, machine learning, deep learning, and data science
+		* What AI realistically can--and cannot--do
+		* How to spot opportunities to apply AI to problems in your own organization
+		* What it feels like to build machine learning and data science projects
+		* How to work with an AI team and build an AI strategy in your company
+		* How to navigate ethical and societal discussions surrounding AI
+	* Though this course is largely non-technical, engineers can also take this course to learn the business aspects of AI.
+
+
+Notes:
+	* biologixai@gmail.com
+
+######################################################################################################################################################
+
+
+Week 1:
+	* 1. Video - Week 1 Introduction - 7 min
+	* 2. Video - Machine Learning - 6 min
+	* 3. Video - What is data? - 11 min
+	* 4. Video - The terminology of AI - 9 min
+	* 5. Video - What makes an AI company? - 7 min
+	* 6. Ungraded External Tool - Join us on Discourse! - 1h
+	* 7. Video - What machine learning can and cannot do - 7 min
+	* 8. Video - More examples of what machine learning can and cannot do - 8 min
+	* 9. Video - Non-technical explanation of deep learning (Part 1, optional) - 7 min
+	* 10. Video - Non-technical explanation of deep learning (Part 2, optional) - 3 min
+	* 11. Ungraded External Tool - Ungraded External Tool(Optional)  Notes W1 - 1h
+	* 12. Quiz - Week 1 Quiz - 10 questions
+
+
+Week 2:
+	* 1. Videos - Week 2 Introduction - 1 min
+	* 2. Videos - Workflow of a machine learning project - 6 min
+	* 3. Videos - Workflow of a data science project - 6 min
+	* 4. Videos - Every job function needs to learn how to use data - 6 min
+	* 5. Videos - How to choose an AI project (Part 1) - 7 min
+	* 6. Videos - How to choose an AI project (Part 2) - 8 min
+	* 7. Videos - Working with an AI team - 8 min
+	* 8. Videos - Technical tools for AI teams (optional) - 6 min
+	* 9. Ungraded External Tool - Ungraded External Tool(Optional) Lecture Notes W2 - 1h
+	* 10. Quiz - Week 2 Quiz - 10 questions
+
+
+Week 3 - 
+	* 1. Videos - Week 3 Introduction - 2 min
+	* 2. Videos - Case study: Smart speaker - 9 min
+	* 3. Videos - Case study: Self-driving car - 6 min
+	* 4. Videos - Example roles of an AI team - 8 min
+	* 5. Videos - AI Transformation Playbook (Part 1) - 10 min
+	* 6. Videos - AI Transformation Playbook (Part 2) - 14 min
+	* 7. Videos - AI pitfalls to avoid - 2 min
+	* 8. Videos - Taking your first step in AI - 4 min
+	* 9. Videos - Survey of major AI application areas (optional) - 17 min
+	* 10. Videos - Survey of major AI techniques (optional) - 15 min
+	* 11. Ungraded External Tool - Ungraded External Tool(Optional) Lecture Notes W3 - 1h
+	* 12. Quiz - Week 3 Quiz - 10 questions
+
+
+Week 4: 
+	* 1. Videos - Week 4 Introduction - 2 min
+	* 2. Videos - A realistic view of AI - 7 min
+	* 3. Videos - Discrimination / Bias - 9 min
+	* 4. Videos - Adversarial attacks on AI - 7 min
+	* 5. Videos - Adverse uses of AI - 4 min
+	* 6. Videos - AI and developing economies - 7 min
+	* 7. Videos - AI and jobs - 7 min
+	* 8. Videos - Conclusion - 3 min
+	* 9. Ungraded External Tool - Ungraded External Tool(Optional) Lecture Notes W4 - 1h
+	* 10. Quiz - Week 4 Quiz - 10 questions
+	* 11. Reading - (Optional) Opportunity to Mentor Other Learners - 10 min
+
+
+######################################################################################################################################################
+
+
+Week 1 (What is AI?) - 1. Introduction
+
+
+About the course:
+	* Non-technical course.
+	* Explain buzzwords.
+	* How to use AI personal context, corporation or organization?
+	* AI's affect on society.
+
+	* First week:
+		* Cut through the hype and give realistic view of AI.
+		* What is AI?
+		* Machine learning.
+		* Data and what types of data are valuable and what are not valuable.
+		* What makes a AI first company, improve your company or organizations ability to use AI.
+		* What ML can and cannot do?
+
+	* Second week:
+		* AI technologies can be used to build valuable projects. 
+		* What it takes to build AI projects?
+		* What it feels like to build an AI project?
+		* How to select projects that are technically feasible and valuable to you, business or organization?
+		
+	* Third week:
+		* Build AI in company.
+		* Steps for making company good at AI.
+		* AI transformation playbook.
+		* Build AI teams and complex AI products.
+		* AI's huge impact on society.
+
+	* Fourth week:
+		* Diminish or eliminate biases in AI systems.
+		* AI's affect on developing economies.
+		* AI's affect on jobs.
+		* Navigate rise of AI for yourself and for organization.
+
+
+AI market:
+	* McKinsey Global Institute, AI is estimated to create an additional 13 trillion US dollars of value annually by the year 2030. 
+	* Value into software industry is known.
+	* AI has also affect outside software industry in sectors such as retail, travel, transportation, automotive, materials, manufacturing, and so on.
+
+
+AI reality check:
+	* Society, newspapers and research papers tend to talk about success stories of ML and AI and not failure stories because they aren't interesting.
+	* Discuss examples of both to get a realistic view of what AI and what ML can or cannot do.
+	* Gain judgements about what problems may or may not be solved using these technologies.
+
+
+Types of AI
+	* There is a lot of excitement but also lot of unnecessary hype about AI.
+	* AI is actually two separate ideas. 
+	* Artificial narrow intelligence.
+		* Do one thing
+			* Smart speaker.
+			* self-driving car.
+			* AI to do web search.
+			* AI applications in farming or in factory. 
+		* one trick ponies but can be incredibly valuable. 
+	* AGI (artificial general intelligence.)
+		* Building AGI is the goal of AI.
+		* can do anything a human can do or maybe even be superintelligence and do even more things than any human can.
+	* Tons of progress in ANI and but almost no progress in AGI.
+	* Rapid progress in ANI has caused people to conclude that there's also a lot of progress in AGI this causes people to have irrational fears about evil clever robots coming over to take over humanity. 
+	* AGI is an exciting goal for researchers, but to get there technological breakthroughs are needed and it may take decades to thousands of years.
+
+
+Deep Learning:
+	* Recent rise of ML has been driven through Deep Learning, sometimes also called Neural Networks. 
+	* Explanation of deep learning to better understand what they can do particularly for a set of narrow ANI tasks.
+
+
+Course takeaway:
+	* Gain knowledge and understanding of AI technology better than company leadership or senior roles.
+	* Ability to help yourself or company or organization navigate the rise of AI.
+	* Be in position to provide leadership to others.
+
+
+######################################################################################################################################################
+
+
+Week 1 (What is AI?) - 2. Machine Learning
+
+
+Supervised Learning:
+	* Most commonly used type of machine learning.
+	* Learns input to output mappings (A -> B)
+	* It may seem limiting, but for a right scenario, this can be incredibly valuable. 
+	* Examples:
+		* Spam Filtering - email (input A) -> email spam or not, 0/1 (output B).
+		* Speech recognition - audio clip (input A) -> generate text transcript (output B).
+		* Machine translation - English (input A) -> different language (output B).
+		* Online advertising - information about ad + user (input A) -> user click on the ad or not (output B)
+			* Show ad most likely to be clicked.
+			* Huge economic impact and is very lucrative.
+		* Self-driving car - image + information from radar + other sensors -> position of other cars (output B) to avoid the other cars. 
+		* Visual inspection - picture of object manufactured on assembly line, like cell phone  (input A) -> find if scratch, or dent is present (output B)
+			* Visual inspection helping manufacturers to reduce or prevent defects 
+
+
+Why is supervised learning taking off now?
+	* The idea of supervised learning has been around for many decades.
+	* But it's really has taken off recently due to the rise of ML techniques like Neural Networks and Deep Learning.  
+	* Let's look at below plot
+		* Horizontal axis - amount of data.
+			ex: for speech recognition, this can be audio and transcripts.
+		* Vertical axis  - performance of AI system.
+
+	* Traditional AI system
+		* Feeding data gets the performance bit better.
+		* But, Beyond certain point it does not get much better even if more data is fed.
+			* ex: speech recognition system or online advertising system accuracy did not get better
+
+	* Modern AI (NN & DL)
+		* If a small neural network is trained, then the performance increases as you feed them more data for much longer than traditional AI.
+		* If a medium-sized neural network is rained, then the performance increases much longer as more data is fed.
+		* If a large neural network is trained, then the performance just keeps on getting better and better.
+			* Helps to create high-performance and highly accurate systems which have applications in speech recognition, online advertising, self-driving car 
+			* Products become more acceptable to users and valuable to companies. 
+
+
+	  ▲
+	  │ L - Large NN
+	  │ M - Medium NN
+	  │ S - Small NN
+	 P│ T - Traditional AI                                         LLLL
+	 E│                                                     LLLLL
+	 R│                                              LLLLLLL
+	 F│                                      LLLLLLLL
+	 O│                                LLLLLL
+	 R│                           LLLLL
+	 M│                       LLL
+	 A│                   L LL                          MMMMMMMMMMMM
+	 N│                 LL                       MMMMMMMM
+	 C│               L                   MMMMMMMM
+	 E│             LL             MMMMMMMM
+	  │          LL          MMMMMMM
+	 O│         L        MMMMM           SSSSSSSSSSSSSSSSSSSSSSSSSSS
+	 F│        L    M MM       SSSSSSSSSSS
+	  │     LL    M     SSSSSSSS
+	 A│   L     M     SSS
+	 I│       M    SSS
+	  │LL   M    SS         TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+	  │  M    SS    TTTTTTTT
+	  │ M   S   TTTT
+	  │   S   TT
+	  │ SS TTT
+	  │S  TT
+	  │TTT
+	  └──────────────────────────────────────────────────────────────►
+	                          AMOUNT OF DATA
+
+
+
+Requirements for high performance in modern AI:
+	* Lot of data enables the model to work really well
+		* Amount of data you accessible has increased due to rise of the computers and Internet.
+		* Data which used to stay in pieces of paper are now digitised.
+		* Importance of big data has increased.
+	* Fast Computers 
+		* Faster processors as per Moore's law and specialized processors such as graphics processing units (GPU)
+		* Helps in training large neural network. 
+		* Enabled even smaller companies to be able to train large neural nets on large data to get good performance which generates business value. 
+
+
+######################################################################################################################################################
+
+
+Week 1 (What is AI?) - 3. What is data?
+
+
+
+
+
+
