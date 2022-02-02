@@ -1,5 +1,6 @@
 Course:
 	* AI For Everyone
+	* https://www.coursera.org/learn/ai-for-everyone
 
 
 Instructor:
@@ -25,8 +26,13 @@ About this Course:
 	* Though this course is largely non-technical, engineers can also take this course to learn the business aspects of AI.
 
 
-Notes:
+Notes by:
 	* biologixai@gmail.com
+
+
+Disclaimer:
+	* Ownership of original course contents lies with instructor and site.
+
 
 ######################################################################################################################################################
 
@@ -212,36 +218,36 @@ Why is supervised learning taking off now?
 			* Products become more acceptable to users and valuable to companies. 
 
 
-	  ▲
-	  │ L - Large NN
-	  │ M - Medium NN
-	  │ S - Small NN
-	 P│ T - Traditional AI                                         LLLL
-	 E│                                                     LLLLL
-	 R│                                              LLLLLLL
-	 F│                                      LLLLLLLL
-	 O│                                LLLLLL
-	 R│                           LLLLL
-	 M│                       LLL
-	 A│                   L LL                          MMMMMMMMMMMM
-	 N│                 LL                       MMMMMMMM
-	 C│               L                   MMMMMMMM
-	 E│             LL             MMMMMMMM
-	  │          LL          MMMMMMM
-	 O│         L        MMMMM           SSSSSSSSSSSSSSSSSSSSSSSSSSS
-	 F│        L    M MM       SSSSSSSSSSS
-	  │     LL    M     SSSSSSSS
-	 A│   L     M     SSS
-	 I│       M    SSS
-	  │LL   M    SS         TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
-	  │  M    SS    TTTTTTTT
-	  │ M   S   TTTT
-	  │   S   TT
-	  │ SS TTT
-	  │S  TT
-	  │TTT
-	  └──────────────────────────────────────────────────────────────►
-	                          AMOUNT OF DATA
+	   ▲
+	   │ L - Large NN
+	   │ M - Medium NN
+	   │ S - Small NN
+	 P │ T - Traditional AI                                      LLLL
+	 E │                                                     LLLLL
+	 R │                                              LLLLLLL
+	 F │                                      LLLLLLLL
+	 O │                                LLLLLL
+	 R │                           LLLLL
+	 M │                       LLL
+	 A │                   L LL                          MMMMMMMMMMMM
+	 N │                 LL                       MMMMMMMM
+	 C │               L                   MMMMMMMM
+	 E │             LL             MMMMMMMM
+	   │          LL          MMMMMMM
+	 O │         L        MMMMM           SSSSSSSSSSSSSSSSSSSSSSSSSSS
+	 F │        L    M MM       SSSSSSSSSSS
+	   │     LL    M     SSSSSSSS
+	 A │   L     M     SSS
+	 I │       M    SSS
+	   │LL   M    SS         TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+	   │  M    SS    TTTTTTTT
+	   │ M   S   TTTT
+	   │   S   TT
+	   │ SS TTT
+	   │S  TT
+	   │TTT
+	   └──────────────────────────────────────────────────────────────►
+	                           AMOUNT OF DATA
 
 
 
@@ -260,6 +266,13 @@ Requirements for high performance in modern AI:
 
 
 Week 1 (What is AI?) - 3. What is data?
+
+
+
+
+######################################################################################################################################################
+
+
 
 
 
